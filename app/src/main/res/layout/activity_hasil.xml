@@ -13,8 +13,10 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        android:id="@+id/textView" />
+        android:text="Hasil"
+        android:id="@+id/textViewHasil"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:gravity="center" />
 
     <Button
         android:layout_width="match_parent"
